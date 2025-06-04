@@ -1,2 +1,6 @@
 this is bec
+<<<<<<< HEAD
 aiml-a
+=======
+bapatla engineering college
+>>>>>>> fb
